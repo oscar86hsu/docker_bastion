@@ -1,4 +1,4 @@
-FROM oscar86hsu/sshd:armv7
+FROM oscar86hsu/bastion:armv7
 
 RUN apk add --no-cache openssh-client ca-certificates bash
 
