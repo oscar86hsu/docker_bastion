@@ -1,4 +1,4 @@
-FROM oscar86hsu/bastion:latest
+FROM oscar86hsu/sshd:latest
 
 RUN apk add --no-cache openssh-client ca-certificates bash
 

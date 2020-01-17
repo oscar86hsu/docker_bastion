@@ -1,4 +1,4 @@
-NAME := sshd
+NAME := bastion
 TAG := armv7
 IMAGE_NAME := oscar86hsu/$(NAME)
 
